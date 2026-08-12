@@ -47,7 +47,7 @@ export const defaultConfig: LabelConfig = {
     offsetY: 0,
   },
   arrivalDate: {
-    text: '10/15 10-14',
+    text: '01/01 10-12',
     fontFamily: 'sans-serif',
     fontSize: 20,
     offsetX: 0,
